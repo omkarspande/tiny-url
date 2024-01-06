@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sgAJfgAsj54BJX1CUTqIPVH+YHJUz2SQKz+4EXx+2BPMgY1q3N886WmA9Fno1uFjN2NLejLRMGb1v8CTeAE0gQ==",
+  "success": true,
+  "projectFilePath": "D:\\omkar\\New folder\\UrlShortner\\UrlShortner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OMKARPANDE\\.nuget\\packages\\litedb\\5.0.17\\litedb.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
